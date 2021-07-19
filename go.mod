@@ -12,7 +12,7 @@ require (
 	github.com/mitchellh/mapstructure v1.3.3 // indirect
 	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0 // indirect
 	google.golang.org/genproto v0.0.0-20201110150050-8816d57aaa9a // indirect
-	k8s.io/apimachinery v0.20.5
+	k8s.io/apimachinery v0.21.3
 )
 
 replace (
