@@ -11,7 +11,7 @@ require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.7.0
 	github.com/mitchellh/mapstructure v1.3.3 // indirect
 	google.golang.org/genproto v0.0.0-20201110150050-8816d57aaa9a // indirect
-	k8s.io/apimachinery v0.22.0
+	k8s.io/apimachinery v0.22.1
 )
 
 replace (
