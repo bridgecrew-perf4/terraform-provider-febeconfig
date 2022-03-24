@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/agext/levenshtein v1.2.3 // indirect
-	github.com/hashicorp/terraform-plugin-docs v0.5.1
+	github.com/hashicorp/terraform-plugin-docs v0.7.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.12.0
 	google.golang.org/genproto v0.0.0-20201110150050-8816d57aaa9a // indirect
 	k8s.io/apimachinery v0.22.2
